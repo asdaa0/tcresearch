@@ -2,6 +2,7 @@ Thaumcraft 4.x Research Helper
 ==========
 
 [Link](http://asdaa0.github.io/tcresearch/)
+
 [Credit](http://ythri.github.io/tcresearch/)
 
 This script helps you with your Thaumcraft 4.x research. If you have a research note with two aspects that you don't 
